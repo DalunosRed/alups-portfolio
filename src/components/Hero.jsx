@@ -19,9 +19,7 @@ const Hero = ({ mode, setMode }) => {
         {/* Left - Text Content */}
         <div className="max-w-xl">
           <p className="text-lg text-white-600 mb-2">Hello, My name is</p>
-          <h1 className="text-5xl md:text-6xl font-extrabold mb-2">
-            Red Dalunos
-          </h1>
+          <h1 className="text-5xl md:text-6xl font-extrabold mb-2">Alupsss</h1>
           <h2 className="text-2xl md:text-3xl font-bold text-yellow-400 mb-4">
             {title}
           </h2>
